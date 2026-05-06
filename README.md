@@ -10,8 +10,8 @@
     - `BWT.hs`: Burrows–Wheeler Transform and inverse
     - `MTF.hs`: Move-To-Front transform and inverse
     - `RLE.hs`: Run-Length Encoding and decoding
-- `Pipeline.hs` : Connects the algorithms into a full compression/decompression pipeline (e.g. BWT → MTF → RLE and reverse process)
-- `Main.hs`
+- `app/Pipeline.hs` : Connects the algorithms into a full compression/decompression pipeline (e.g. BWT → MTF → RLE and reverse process)
+- `app/Main.hs`
 
 ## What the Program Does
 
